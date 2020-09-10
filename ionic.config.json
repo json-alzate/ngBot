@@ -1,0 +1,7 @@
+{
+  "name": "ngBot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
